@@ -1,0 +1,27 @@
+.titulo{
+    text-align: center;
+    color: lightgray;
+}
+
+.linkear{
+    margin: 7px;
+    color:white
+  }
+  
+.linkear:hover{        
+    color: yellow;
+}
+
+.volverarriba{
+    position: fixed;
+    color: #aaa9a9;
+    right: 20px;
+    bottom: 20px;
+    background-color: rgb(49, 49, 49);
+    padding: 10px;    
+    border-radius: 5px;
+}
+
+.volverarriba:hover{
+    color:white;
+}
